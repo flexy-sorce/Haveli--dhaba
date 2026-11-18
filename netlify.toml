@@ -1,4 +1,5 @@
 [build]
+  base = "haveli-dhaba-next"
   command = "npm run build"
   publish = ".next"
 
